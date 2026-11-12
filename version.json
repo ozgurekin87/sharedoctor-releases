@@ -1,6 +1,6 @@
 {
-  "version": "5.9.1",
-  "sha256": "ffaf09a64e877dd88e7ba0e3cb8a8a14ba66b840d21a6a0161206ce000202bc2",
+  "version": "5.9.2",
+  "sha256": "dc5df02bf10a597155c547afb643b4947390b44e2a0539c625fd99d95d38ac2a",
   "file": "ShareDoctor.zip",
-  "notes": "Progress bar while saving settings and applying fixes."
+  "notes": "Folders another PC stopped sharing now disappear from the list automatically."
 }
