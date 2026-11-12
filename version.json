@@ -1,6 +1,6 @@
 {
-  "version": "5.5.2",
-  "sha256": "839329e6f8e271c142f841a2aff99078e9646eff6a02d5056a9393e19ea3b86c",
+  "version": "5.5.3",
+  "sha256": "1c77293c03e165f9834cf421b1ab1f2efe84f98a77d56f47a5b51ee8dc2337cb",
   "file": "ShareDoctor.zip",
-  "notes": "Fix buttons now report why a repair failed. Update check bypasses cached copies."
+  "notes": "No more PowerShell windows on Fix, Activity or updates."
 }
