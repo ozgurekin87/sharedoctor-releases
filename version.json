@@ -1,6 +1,6 @@
 {
-  "version": "5.9.2",
-  "sha256": "dc5df02bf10a597155c547afb643b4947390b44e2a0539c625fd99d95d38ac2a",
+  "version": "5.9.3",
+  "sha256": "5345846d1aad441175550f96dabf2f4b23bce5e801aa5d61bf3520dd522ae809",
   "file": "ShareDoctor.zip",
-  "notes": "Folders another PC stopped sharing now disappear from the list automatically."
+  "notes": "Desktop shortcuts from the Open folder list."
 }
