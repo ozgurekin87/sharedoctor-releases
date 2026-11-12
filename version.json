@@ -1,6 +1,6 @@
 {
-  "version": "5.9.0",
-  "sha256": "56161285c5cdb90783f55dfb819bc06e55150461c0b504f01e92d9999d839c37",
+  "version": "5.9.1",
+  "sha256": "ffaf09a64e877dd88e7ba0e3cb8a8a14ba66b840d21a6a0161206ce000202bc2",
   "file": "ShareDoctor.zip",
-  "notes": "Clearer tray icon; printers installed on this PC are listed and watched by default."
+  "notes": "Progress bar while saving settings and applying fixes."
 }
