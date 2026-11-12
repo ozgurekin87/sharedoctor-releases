@@ -1,6 +1,6 @@
 {
-  "version": "5.7.0",
-  "sha256": "3f3043c5566449823870002b7bef04233cb13293f10949744989aac8a678ca72",
+  "version": "5.7.1",
+  "sha256": "680dda334ff51b0bbe93260dca4a4dd23884b5c3dd93f73dd15d58455cf19052",
   "file": "ShareDoctor.zip",
-  "notes": "Printer finder and monitoring, print service watchdog, start-with-Windows and update button in Settings."
+  "notes": "Saved logins are repaired automatically so Windows stops asking for user and password."
 }
