@@ -1,6 +1,6 @@
 {
-  "version": "5.9.6",
-  "sha256": "3975e7f978ed3fef01475a6e02f6c1f300ea4b591558023ac3365d71b3b99dd8",
+  "version": "5.9.7",
+  "sha256": "b558c5c3f50346ba0d86c4ce1715e0cf6b8e03755c9401902c77e799f59c1665",
   "file": "ShareDoctor.zip",
-  "notes": "Save only asks for administrator permission when needed."
+  "notes": "Open folder list: only the desktop shortcut arrow."
 }
