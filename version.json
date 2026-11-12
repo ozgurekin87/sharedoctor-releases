@@ -1,6 +1,6 @@
 {
-  "version": "5.4.1",
-  "sha256": "4ffd197860feb3ef31bad7ab7567b6a2afa8626c1d3bbfa2514a708c27b9f0a5",
+  "version": "5.5.0",
+  "sha256": "c36f940c4752a0c9c3177ad3e91ef73a7d57610827eb2f3219655cee7905ce14",
   "file": "ShareDoctor.zip",
-  "notes": "Folders found automatically, Open folder menu, app icon."
+  "notes": "New folder-and-doctor icon on every window and the tray (with a status dot)."
 }
