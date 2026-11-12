@@ -1,6 +1,6 @@
 {
-  "version": "5.9.3",
-  "sha256": "5345846d1aad441175550f96dabf2f4b23bce5e801aa5d61bf3520dd522ae809",
+  "version": "5.9.4",
+  "sha256": "196006d4e99be07aea1f28e2c41d32bd7eba40977ed6773ac9879548822cf32c",
   "file": "ShareDoctor.zip",
-  "notes": "Desktop shortcuts from the Open folder list."
+  "notes": "Arrow on each folder in Open folder list for desktop shortcut."
 }
