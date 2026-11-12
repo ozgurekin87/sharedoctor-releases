@@ -1,6 +1,6 @@
 {
-  "version": "5.8.0",
-  "sha256": "1236a66af4cc17c5a471fc7a25ae77b3d217ada2d6d98e2719a35fcbbb66e712",
+  "version": "5.8.1",
+  "sha256": "964dddb161e4db731a9335ce264c0a8a1494ce7c15a374d0b953b25d5fbb49fb",
   "file": "ShareDoctor.zip",
-  "notes": "Existing shares can be adopted by Share Doctor."
+  "notes": "About window and credit line."
 }
