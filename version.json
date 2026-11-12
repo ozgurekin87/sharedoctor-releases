@@ -1,6 +1,6 @@
 {
-  "version": "5.7.1",
-  "sha256": "680dda334ff51b0bbe93260dca4a4dd23884b5c3dd93f73dd15d58455cf19052",
+  "version": "5.8.0",
+  "sha256": "1236a66af4cc17c5a471fc7a25ae77b3d217ada2d6d98e2719a35fcbbb66e712",
   "file": "ShareDoctor.zip",
-  "notes": "Saved logins are repaired automatically so Windows stops asking for user and password."
+  "notes": "Existing shares can be adopted by Share Doctor."
 }
