@@ -1,6 +1,6 @@
 {
-  "version": "5.8.1",
-  "sha256": "964dddb161e4db731a9335ce264c0a8a1494ce7c15a374d0b953b25d5fbb49fb",
+  "version": "5.9.0",
+  "sha256": "56161285c5cdb90783f55dfb819bc06e55150461c0b504f01e92d9999d839c37",
   "file": "ShareDoctor.zip",
-  "notes": "About window and credit line."
+  "notes": "Clearer tray icon; printers installed on this PC are listed and watched by default."
 }
