@@ -1,6 +1,6 @@
 {
-  "version": "5.6.0",
-  "sha256": "e5e9c7312802135429757378021051b9ce5fdda33252bdd209a4bce4e9f59027",
+  "version": "5.6.1",
+  "sha256": "e6e0323a7ade635c21b73a2cdf6123364446c164f60d251579351908cc31ad38",
   "file": "ShareDoctor.zip",
-  "notes": "Settings > Folders I share: see all shares on this PC and stop sharing duplicates."
+  "notes": "Automatic repair status is now detected reliably."
 }
