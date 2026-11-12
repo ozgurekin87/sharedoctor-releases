@@ -1,6 +1,6 @@
 {
-  "version": "5.5.1",
-  "sha256": "4c161a952ad8808527d7ec874cf2883d1728e9465644227a0e9453a6d548cce9",
+  "version": "5.5.2",
+  "sha256": "839329e6f8e271c142f841a2aff99078e9646eff6a02d5056a9393e19ea3b86c",
   "file": "ShareDoctor.zip",
-  "notes": "Better doctor icon."
+  "notes": "Fix buttons now report why a repair failed. Update check bypasses cached copies."
 }
