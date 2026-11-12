@@ -1,6 +1,6 @@
 {
-  "version": "5.9.5",
-  "sha256": "4b216e298e2da65f80d5cbf01feeefed29255b32b9589c71fb00834700e143ac",
+  "version": "5.9.6",
+  "sha256": "3975e7f978ed3fef01475a6e02f6c1f300ea4b591558023ac3365d71b3b99dd8",
   "file": "ShareDoctor.zip",
-  "notes": "Remove selected row button and full-row selection in Settings lists."
+  "notes": "Save only asks for administrator permission when needed."
 }
