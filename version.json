@@ -1,6 +1,6 @@
 {
-  "version": "5.5.0",
-  "sha256": "c36f940c4752a0c9c3177ad3e91ef73a7d57610827eb2f3219655cee7905ce14",
+  "version": "5.5.1",
+  "sha256": "4c161a952ad8808527d7ec874cf2883d1728e9465644227a0e9453a6d548cce9",
   "file": "ShareDoctor.zip",
-  "notes": "New folder-and-doctor icon on every window and the tray (with a status dot)."
+  "notes": "Better doctor icon."
 }
