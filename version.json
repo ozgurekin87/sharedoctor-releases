@@ -1,6 +1,6 @@
 {
-  "version": "5.9.7",
-  "sha256": "b558c5c3f50346ba0d86c4ce1715e0cf6b8e03755c9401902c77e799f59c1665",
+  "version": "5.10.0",
+  "sha256": "fa9bce16f90cda41c85e3a0deab62474f4a9714e44978b2dcb932eac492478d0",
   "file": "ShareDoctor.zip",
-  "notes": "Open folder list: only the desktop shortcut arrow."
+  "notes": "Share your printers with other PCs; shared printers of other PCs are listed and watched automatically; removed folders and printers disappear from other PCs."
 }
