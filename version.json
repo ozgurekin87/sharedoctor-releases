@@ -1,6 +1,6 @@
 {
-  "version": "5.10.0",
-  "sha256": "fa9bce16f90cda41c85e3a0deab62474f4a9714e44978b2dcb932eac492478d0",
+  "version": "5.11.0",
+  "sha256": "bc0741adedc4295a1b2f378b7016ad7c1a837af1666ec1c20e8023acd27ccfd1",
   "file": "ShareDoctor.zip",
-  "notes": "Share your printers with other PCs; shared printers of other PCs are listed and watched automatically; removed folders and printers disappear from other PCs."
+  "notes": "Safety check for open shared folders with one-click lock; option to share only the folders in the list."
 }
