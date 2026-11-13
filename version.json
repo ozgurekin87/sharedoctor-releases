@@ -1,6 +1,6 @@
 {
-  "version": "5.11.0",
-  "sha256": "bc0741adedc4295a1b2f378b7016ad7c1a837af1666ec1c20e8023acd27ccfd1",
+  "version": "5.12.0",
+  "sha256": "2d329e0770e6be6f77d1372a841f26629bf652d9db35b0b3a8ada4e7f1bb0f04",
   "file": "ShareDoctor.zip",
-  "notes": "Safety check for open shared folders with one-click lock; option to share only the folders in the list."
+  "notes": "Main status page grouped into sections: this PC, folders I open per PC, folders I share, security, printers."
 }
