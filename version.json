@@ -1,6 +1,6 @@
 {
-  "version": "5.12.4",
-  "sha256": "4cf4e94f67af0e6b2ba820c884a747975fea3042a9054227a0d8ead8122ce70b",
+  "version": "5.12.5",
+  "sha256": "de4005fc605a26f522e58fed446f31b8a0ef44f5fe003e563bdfcc79cacf0898",
   "file": "ShareDoctor.zip",
-  "notes": "Safety check and share-list enforcement ignore printer shares."
+  "notes": "One-click removal of a folder that no longer exists on the other PC."
 }
