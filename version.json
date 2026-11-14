@@ -1,6 +1,6 @@
 {
-  "version": "5.12.3",
-  "sha256": "5bf3e90c84377376fcbf4f89df67fac290265a9a2d6576a6c0b2197e64358d79",
+  "version": "5.12.4",
+  "sha256": "4cf4e94f67af0e6b2ba820c884a747975fea3042a9054227a0d8ead8122ce70b",
   "file": "ShareDoctor.zip",
-  "notes": "Removed printers stay removed; Windows system shares are never managed; share checks grouped."
+  "notes": "Safety check and share-list enforcement ignore printer shares."
 }
