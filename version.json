@@ -1,6 +1,6 @@
 {
-  "version": "5.12.1",
-  "sha256": "123dfff2425b8c7d48441e4b73f8e947a11ebb5f6746912aa29a0f1cdc56b5db",
+  "version": "5.12.2",
+  "sha256": "f69be0630af83cbb95b8e591d065db0dec1678e5df592b38047d4940a4bda4d5",
   "file": "ShareDoctor.zip",
-  "notes": "Red banner says shared folders are too open instead of cannot reach, for security findings."
+  "notes": "Lock shares refuses to run if the sharing login does not exist (prevents lockout)."
 }
