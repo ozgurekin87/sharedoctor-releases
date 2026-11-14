@@ -1,6 +1,6 @@
 {
-  "version": "5.12.2",
-  "sha256": "f69be0630af83cbb95b8e591d065db0dec1678e5df592b38047d4940a4bda4d5",
+  "version": "5.12.3",
+  "sha256": "5bf3e90c84377376fcbf4f89df67fac290265a9a2d6576a6c0b2197e64358d79",
   "file": "ShareDoctor.zip",
-  "notes": "Lock shares refuses to run if the sharing login does not exist (prevents lockout)."
+  "notes": "Removed printers stay removed; Windows system shares are never managed; share checks grouped."
 }
